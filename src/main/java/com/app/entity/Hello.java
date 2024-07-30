@@ -7,6 +7,7 @@ public class Hello {
 	}
 	
 	public void get(){
-		System.out.println("Print Something")
+		System.out.println("Print Something");
+		system.out.println("get method");
 	}
 }
